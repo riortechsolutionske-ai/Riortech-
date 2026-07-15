@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riortechsolutionske-ai.github.io/Riortech-/sitemap.xml
